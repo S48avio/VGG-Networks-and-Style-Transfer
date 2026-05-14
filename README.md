@@ -55,4 +55,9 @@ The project uses the pre-trained VGG19 as a "Visual Judge" to calculate two comp
 ## 🚀 Usage
 1. **Classification**: Run `vgg19_from_scratch.ipynb` to train the animal classifier.
 2. **Style Transfer**: Execute the NST script, providing paths for `--content` and `--style` images.
+3. <img width="208" height="243" alt="mohan" src="https://github.com/user-attachments/assets/efb5b6a8-c310-4fc5-965d-f73ad8b9ec78" />
+<img width="250" height="202" alt="va" src="https://github.com/user-attachments/assets/6952da21-1c27-48dd-aedc-c4113308aee0" />
+
+<img width="373" height="418" alt="image" src="https://github.com/user-attachments/assets/49942659-5b88-47d8-8b8e-9e6da8e0f4a3" />
+
 
